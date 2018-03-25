@@ -1,0 +1,123 @@
+Searching 1232 files for "Jordan"
+
+/Users/ryancha/Desktop/NewPortfolio/app/controllers/concerns/default_page_content.rb:
+    8    def set_page_defaults
+    9      @page_title = "Devcamp Portfolio | My Portfolio Website"
+   10:     @seo_keywords = "Jeongmin Cha portfolio"
+   11    end
+   12  end
+
+/Users/ryancha/Desktop/NewPortfolio/app/helpers/application_helper.rb:
+   18  
+   19    def copyright_generator
+   20:     DevcampViewTool::Renderer.copyright 'Jeongmin Cha', 'All rights reserved'
+   21    end
+   22  
+
+/Users/ryancha/Desktop/NewPortfolio/app/views/pages/contact.html.erb:
+   15      <h3>Email</h3>
+   16  
+   17:     <p><a href="mailto:jordan@devcamp.com?subject=PortfolioContact" "email me">Email me</a> </p>
+   18    </div>
+   19  
+
+/Users/ryancha/Desktop/NewPortfolio/app/views/shared/_application_nav.html.erb:
+    1  <div class="masthead clearfix">
+    2    <div class="inner">
+    3:     <h3 class="masthead-brand">Jordan Hudgens</h3>
+    4      <nav class="nav nav-masthead app-nav">
+    5        <%= nav_helper 'nav-link', 'span' %>
+
+/Users/ryancha/Desktop/NewPortfolio/app/views/shared/_portfolio_nav.html.erb:
+   19  <div class="navbar navbar-inverse bg-inverse">
+   20    <div class="container d-flex justify-content-between">
+   21:     <a href="#" class="navbar-brand">Jordan Hudgens</a>
+   22      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+   23        <span class="navbar-toggler-icon"></span>
+
+5 matches across 5 files
+
+
+Searching 1232 files for "Jordan"
+
+/Users/ryancha/Desktop/NewPortfolio/app/controllers/concerns/default_page_content.rb:
+    8    def set_page_defaults
+    9      @page_title = "Devcamp Portfolio | My Portfolio Website"
+   10:     @seo_keywords = "Jordan Hudgens portfolio"
+   11    end
+   12  end
+
+/Users/ryancha/Desktop/NewPortfolio/app/helpers/application_helper.rb:
+   18  
+   19    def copyright_generator
+   20:     DevcampViewTool::Renderer.copyright 'Jordan Hudgens', 'All rights reserved'
+   21    end
+   22  
+
+/Users/ryancha/Desktop/NewPortfolio/app/views/pages/contact.html.erb:
+   15      <h3>Email</h3>
+   16  
+   17:     <p><a href="mailto:jordan@devcamp.com?subject=PortfolioContact" "email me">Email me</a> </p>
+   18    </div>
+   19  
+
+/Users/ryancha/Desktop/NewPortfolio/app/views/shared/_application_nav.html.erb:
+    1  <div class="masthead clearfix">
+    2    <div class="inner">
+    3:     <h3 class="masthead-brand">Jordan Hudgens</h3>
+    4      <nav class="nav nav-masthead app-nav">
+    5        <%= nav_helper 'nav-link', 'span' %>
+
+/Users/ryancha/Desktop/NewPortfolio/app/views/shared/_portfolio_nav.html.erb:
+   19  <div class="navbar navbar-inverse bg-inverse">
+   20    <div class="container d-flex justify-content-between">
+   21:     <a href="#" class="navbar-brand">Jordan Hudgens</a>
+   22      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+   23        <span class="navbar-toggler-icon"></span>
+
+5 matches across 5 files
+
+
+Searching 1232 files for "Jordan Hudgens"
+
+/Users/ryancha/Desktop/NewPortfolio/app/controllers/concerns/default_page_content.rb:
+    8    def set_page_defaults
+    9      @page_title = "Devcamp Portfolio | My Portfolio Website"
+   10:     @seo_keywords = "Jordan Hudgens portfolio"
+   11    end
+   12  end
+
+/Users/ryancha/Desktop/NewPortfolio/app/helpers/application_helper.rb:
+   18  
+   19    def copyright_generator
+   20:     DevcampViewTool::Renderer.copyright 'Jordan Hudgens', 'All rights reserved'
+   21    end
+   22  
+
+/Users/ryancha/Desktop/NewPortfolio/app/views/shared/_application_nav.html.erb:
+    1  <div class="masthead clearfix">
+    2    <div class="inner">
+    3:     <h3 class="masthead-brand">Jordan Hudgens</h3>
+    4      <nav class="nav nav-masthead app-nav">
+    5        <%= nav_helper 'nav-link', 'span' %>
+
+/Users/ryancha/Desktop/NewPortfolio/app/views/shared/_portfolio_nav.html.erb:
+   19  <div class="navbar navbar-inverse bg-inverse">
+   20    <div class="container d-flex justify-content-between">
+   21:     <a href="#" class="navbar-brand">Jordan Hudgens</a>
+   22      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+   23        <span class="navbar-toggler-icon"></span>
+
+4 matches across 4 files
+
+
+Searching 1237 files for "Jordan"
+
+/Users/ryancha/Desktop/NewPortfolio/app/views/pages/contact.html.erb:
+   15      <h3>Email</h3>
+   16  
+   17:     <p><a href="mailto:ryancha1205@gmail.com?subject=PortfolioContact" "email me">Email me</a> </p>
+   18    </div>
+   19  
+
+1 match in 1 file
